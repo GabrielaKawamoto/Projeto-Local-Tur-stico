@@ -1,0 +1,114 @@
+body{
+    background-color: #1B1B1B
+
+}
+h4{
+    color:#3e3d3d; 
+    margin-left: 30px;
+    font-size: small;
+}
+
+main{
+    background-color: white;
+    height: 40%
+    max-height: 70%;
+    width: 50%;
+    max-width: 86%;
+    margin-left: 1.5%;
+    padding: 20px 20px 20px 20px;
+    border: solid white 40px;
+    position: center;
+    margin-top: 20px;
+    border-radius: 20px;    
+    
+}
+
+section{
+    color: #E1624F;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-family: "open sans", sans-serif;
+    font-weight: bold
+}
+
+h1{
+    color: #1B1B1B;
+    font-size: 40px;
+    font-family: "open sans", sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    line-height: 1.2;
+    max-width: 600px;
+    text-align: left;
+    letter-spacing: -1px;
+    margin-left: 2px;
+    
+}
+h2{
+    color: #1B1B1B;
+    font-size: 25px;
+    font-family: "open sans", sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    line-height: 1.2;
+    max-width: 600px;
+    text-align: left;
+    letter-spacing: -1px;
+    margin-left: 2px;
+}
+p{
+    color: #1B1B1B;
+    font-size: 15px;
+    font-family: "open sans", sans-serif;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-transform: none;
+    line-height: 1.5;
+    max-width: 600px;
+    text-align: justify;
+    letter-spacing: -0.5px;
+    margin-left: 2px;
+}
+div{
+    margin-bottom: 20px;
+}
+ul{
+    color: #1B1B1B;
+    font-size: 15px;
+    font-family: "open sans", sans-serif;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-transform: none;
+    line-height: 1.5;
+    max-width: 600px;
+    text-align: justify;
+    letter-spacing: -0.5px;
+    margin-left: 20px;
+}
+li{
+    margin-bottom: 10px;
+    list-style-type: disc;
+    list-style-position: inside;
+
+}
+img{
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
