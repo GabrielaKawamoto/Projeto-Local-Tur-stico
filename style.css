@@ -4,22 +4,22 @@ body{
 }
 h4{
     color:#3e3d3d; 
-    margin-left: 30px;
+    margin-left:250px;
     font-size: small;
 }
 
 main{
-    background-color: white;
+    background-color: #f0f0f0;
     height: 40%
     max-height: 70%;
     width: 50%;
     max-width: 86%;
     margin-left: 1.5%;
     padding: 20px 20px 20px 20px;
-    border: solid white 40px;
+    border: solid #f0f0f0 60px;
     position: center;
     margin-top: 20px;
-    border-radius: 20px;    
+    margin: auto;    
     
 }
 
@@ -38,12 +38,7 @@ h1{
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 20px;
-    text-transform: capitalize;
-    line-height: 1.2;
-    max-width: 600px;
     text-align: left;
-    letter-spacing: -1px;
-    margin-left: 2px;
     
 }
 h2{
@@ -53,26 +48,15 @@ h2{
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 20px;
-    text-transform: capitalize;
-    line-height: 1.2;
-    max-width: 600px;
-    text-align: left;
-    letter-spacing: -1px;
-    margin-left: 2px;
 }
 p{
     color: #1B1B1B;
     font-size: 15px;
     font-family: "open sans", sans-serif;
-    font-weight: normal;
     margin-top: 10px;
     margin-bottom: 20px;
-    text-transform: none;
     line-height: 1.5;
-    max-width: 600px;
     text-align: justify;
-    letter-spacing: -0.5px;
-    margin-left: 2px;
 }
 div{
     margin-bottom: 20px;
@@ -81,34 +65,74 @@ ul{
     color: #1B1B1B;
     font-size: 15px;
     font-family: "open sans", sans-serif;
-    font-weight: normal;
     margin-top: 10px;
     margin-bottom: 20px;
-    text-transform: none;
-    line-height: 1.5;
-    max-width: 600px;
-    text-align: justify;
-    letter-spacing: -0.5px;
-    margin-left: 20px;
 }
 li{
     margin-bottom: 10px;
-    list-style-type: disc;
-    list-style-position: inside;
+    color: #0C51A7;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "open sans", sans-serif;
 
 }
+.first{
+    color: #591B98;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "open sans", sans-serif;
+   
+}
+
+.second{
+    color:#E5245E;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "open sans", sans-serif;
+
+}
+.third{
+    color: #E95E10;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "open sans", sans-serif;
+}
+
 img{
     width: 100%;
-    max-width: 600px;
     height: auto;
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+
 }
+span{
+    color: #1B1B1B;
+    font-size: 15px;
+    font-family: "open sans", sans-serif;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: -1.5;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+
+}
+
 footer{
-    color: white;
+    color: #333333;
+    font-family: "open sans", sans-serif;
+    font-weight: bold;
     font-size: 12px;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+
+}
+.Coraçãozinho{
+    width: auto;
+    vertical-align: middle;
 }
